@@ -31,6 +31,6 @@ This collaborative approach allowed me to focus on the strategic direction and f
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/community-app.git
-   cd community-app
+   git clone https://github.com/yourusername/profile-app.git
+   cd profile-app
    ```
